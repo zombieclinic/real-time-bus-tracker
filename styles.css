@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: rgb(30, 18, 83)
+}
+
+h1 {
+    font-size: 4.5rem;
+    border: 10px double red;
+    text-align: center;
+    background: rgb(42, 128, 156);
+    padding:2rem;
+    outline: 5px solid purple;
+    outline-offset: -20px;
+}
+
+#map{
+    width: 100rem;
+    height: 50rem;
+    aspect-ratio: 1/1;
+    border-radius: 30rem;
+    border: 4px solid #d9d9d9;
+    box-shadow: 0 0 100rem #0f3355;
+}
