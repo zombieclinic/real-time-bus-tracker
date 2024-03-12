@@ -2,7 +2,7 @@
 
 ## Description
 This will give you real time bus tracking in boston and give you the bus number and leaving a trail of the route its taking.
-I have inproved c++ giving it a better visual and added route tracking with a red line.
+I have inproved css giving it a better visual and added route tracking with a red line.
 i also inproved information if you hover over a bus it gives you the bus number and direction its goings.
 
 ## How to Run
